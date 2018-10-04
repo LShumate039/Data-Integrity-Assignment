@@ -1,5 +1,11 @@
 @charset "utf-8";
 
+/* html stuff */
+
+html {
+    background-color: rgb(240, 240, 240);
+}
+
 /* Header Below*/
 
 header h1 {
@@ -10,7 +16,21 @@ header h1 {
 }
 
 
+/* Body Stuff */
+
+body {
+    background-color: white;
+}
+
+body {
+    margin: 0px 20px 0px 20px;
+}
+
 /* Nav Below */
+
+nav {
+    margin-left: 10px;
+}
 
 nav>ul {
     list-style: none;
@@ -56,4 +76,21 @@ nav a:visited {
 nav a:hover,
 nav a:active {
     color: rgb(202, 57, 38)
+}
+
+/* Paragraph things */
+
+body p {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Footer Stuff */
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
 }
