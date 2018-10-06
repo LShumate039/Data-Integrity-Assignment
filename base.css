@@ -3,7 +3,7 @@
 /* html stuff */
 
 html {
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(53, 212, 240);
 }
 
 /* Header Below*/
@@ -24,12 +24,12 @@ body {
 
 body h3 {
     text-decoration: underline;
+    text-align: center;
 }
 
 body {
-    margin: 0px 20px 0px 20px;
+    margin: 0px 200px 0px 200px;
 }
-
 
 /* Nav Below */
 
