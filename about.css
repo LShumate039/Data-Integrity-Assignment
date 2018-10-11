@@ -5,4 +5,10 @@ article h2 {
     text-decoration-line: underline;
 }
 
-article>p {}
+article>p {
+    margin: 5px;
+}
+
+footer {
+    margin: 2px 0px 0px 0px;
+}
