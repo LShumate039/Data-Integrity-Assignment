@@ -4,3 +4,8 @@ article h2 {
     text-align: center;
     text-decoration-line: underline;
 }
+
+body {
+    padding-left: 5px;
+    padding-right: 5px;
+}
