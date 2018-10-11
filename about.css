@@ -4,3 +4,11 @@
     text-align: center;
     text-decoration-line: underline;
 }
+
+article>p {
+    margin: 5px;
+}
+
+footer {
+    margin: 2px 0px 0px 0px;
+}
