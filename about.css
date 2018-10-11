@@ -1,8 +1,6 @@
 @charset "utf-8";
 
-article h2 {
+  h2 {
     text-align: center;
     text-decoration-line: underline;
 }
-
-article>p {}
